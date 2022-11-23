@@ -1,7 +1,30 @@
-<h1>Belajar Membuat Aplikasi Web dengan React</h1>
+# Belajar Membuat Aplikasi Web dengan React</h1>
 
-<h2>Submission Review</h2>
-<img src="https://github.com/dimmasyusuf/noteable/blob/main/public/submission-review.png" alt="Submission Review" />
+## Submission Review
+![Submission Review](https://github.com/dimmasyusuf/noteable/blob/main/public/submission-review.png "Submission Review")
 
-<h2>Submission Project</h2>
-<img src="https://github.com/dimmasyusuf/noteable/blob/main/public/submission-project.png" alt="Sumission Project" />
+## Submission Project
+![Submission Project](https://github.com/dimmasyusuf/noteable/blob/main/public/submission-project.png "Submission Project")
+
+## Get Started
+1. Clone Repository
+```bash
+git clone https://github.com/dimmasyusuf/noteable.git
+```
+
+2. Open Directory
+```bash
+cd noteable
+```
+
+3. Start Server
+```bash
+npm run start
+```
+
+## Build for Production
+
+- Build
+```bash
+npm run build
+```
